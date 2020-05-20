@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://dev.skyfox.org/udid/receive.php</string>
+            <string>https://raw.githubusercontent.com/Tom22653/ios-/master/receive.php</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
@@ -16,13 +16,13 @@
             </array>
         </dict>
         <key>PayloadOrganization</key>
-        <string>dev.skyfox.org</string>
+        <string>https://raw.githubusercontent.com</string>
         <key>PayloadDisplayName</key>
         <string>查询设备UDID</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
-        <string>3C4DC7D2-E475-3375-489C-0BB8D737A653</string>
+        <string>6a31ce11-05fe-4a31-9dcb-6357b549cccb</string>
         <key>PayloadIdentifier</key>
         <string>dev.skyfox.profile-service</string>
         <key>PayloadDescription</key>
