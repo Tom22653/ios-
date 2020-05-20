@@ -100,7 +100,7 @@ body {
 
 <p class="udid-intro">UDID 是一种 iOS 设备的特殊识别码。除序号之外，每台 iOS 装置都另有一组独一无二的号码，我们就称之为识别码（ Unique Device Identifier, UDID ）。就像我们的身份证一样。开发者需要知道你的 UDID，才可以让你的手机安装访问测试中的应用，就像需要你的身份证才可以让你登机一样 :)</p>
 
-<!-- <a class="buttons" href="xxapp://?function=valid&uuid=<?php echo $UDID;?>&secret=dhasdjh5521673hghdsah">2.验证ipa</a> -->
+<!-- <a class="buttons" href="lianhetegang://?function=valid&uuid=<?php echo $UDID;?>&secret=dhasdjh5521673hghdsah">2.验证ipa</a> -->
 
 <br>
 
